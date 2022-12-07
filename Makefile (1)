@@ -1,0 +1,2 @@
+Major2:	Major2.c
+	gcc -o Major2 Major2.c -I.
